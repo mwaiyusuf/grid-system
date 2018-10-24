@@ -5,7 +5,7 @@ animate.css
 # Technology used
 1.html5
 2.css 
-javascript
+3.javascript
 # fonts
 googlefonts
 # images
