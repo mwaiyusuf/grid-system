@@ -4,7 +4,7 @@ A single page containing grid
 animate.css
 # Technology used
 1.html5
-css 
+2.css 
 javascript
 # fonts
 googlefonts
