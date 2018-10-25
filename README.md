@@ -1,7 +1,7 @@
 # grid-system
 A single page containing grid
 # libraries
-animate.css
+Animate.css
 # Technology used
 1.html5
 2.css 
