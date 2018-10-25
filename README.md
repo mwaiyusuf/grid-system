@@ -7,7 +7,7 @@ animate.css
 2.css 
 3.javascript
 # fonts
-google fonts
+google Fonts
 # images
 https://unsplash.com
 
