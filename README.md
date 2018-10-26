@@ -1,5 +1,5 @@
 # grid-system
-A single page containing grid
+A single page containing grid.
 # libraries
 Animate.css
 # Technology used
